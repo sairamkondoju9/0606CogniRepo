@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<suite name="testSuite" parallel="tests">
+	<test name="first-test">
+	<classes>
+		<class name="draganddrop.Login" />
+	</classes>
+</test>
+
+
+<test name="second-test">
+	<classes>
+		<class name="draganddrop.LoginTwo" />
+	</classes>
+</test>
+
+
+
+</suite>
+ 
