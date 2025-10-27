@@ -1,6 +1,6 @@
-package com.cognizant.SELENIUMTEST;
-
-public class JavaProgram {
-	WebDriver
-
-}
+//package com.cognizant.SELENIUMTEST;
+//
+//public class JavaProgram {
+//	WebDriver
+//
+//}
